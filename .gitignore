@@ -1,2 +1,3 @@
 /doc/tags
 *.pyc
+CMakeLists.txt.user
